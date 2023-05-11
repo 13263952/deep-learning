@@ -25,5 +25,5 @@ This too is meant to help select the applicants for funding with the best chance
 
 In conclusion, by removing only the "EIN" feature, adding hidden layers with different neurons (100,50,20) the  model performed with an accuracy of 77% to 96%. Recommending that the model considers the "NAME" feature, thus the model increases its accuracy by about five percentage points.
 
-![alt text](https://github.com/[13263952]/[deep-learning]/blob/[main]/example.png?raw=true)
+![An image showing different accuracy percentages for the same model with different parameters is meant to be here](https://github.com/13263952/deep-learning/blob/main/Images/example.png)
 
