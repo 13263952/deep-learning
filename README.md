@@ -4,7 +4,7 @@
 ## Overview:
 
 
-This too is meant to help select the applicants for funding with the best chance of success in their ventures. The information was used to create a binary classifier that can predict whether applicants will be successful if funded.
+This tool is meant to help select the applicants for funding with the best chance of success in their ventures. The information was used to create a binary classifier that can predict whether applicants will be successful if funded.
 
 
 ## Results:
